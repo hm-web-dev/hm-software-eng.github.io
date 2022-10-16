@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the software engineering website for the Software Engineering class. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Students engage in a series of projects that hone their ability to design, document, and test their code. These projects require students to work in teams, as they learn how to effectively communicate and delegate. Topics include user-centered design, version control systems, optimization techniques, and code review. This course is taught using multiple programming languages, and projects will vary from year to year.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The website exists for which all assignments are posted in markdown, courtesy of [jekyll](https://github.com/jekyll).  
