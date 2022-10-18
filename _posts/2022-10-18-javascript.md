@@ -1,5 +1,5 @@
 ---
-title: Exercise - Javascript 
+title: Exercise: Javascript 
 ---
 
 # Javascript
