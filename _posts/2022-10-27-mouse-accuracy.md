@@ -1,6 +1,6 @@
-===
-title: Lab Unit 2 - Mouse Accuracy Game
-===
+---
+title: "Lab Unit 2: Mouse Accuracy Game" 
+---
 # Mouse Accuracy Game
 
 You will be working in your team to create a mouse accuracy game from scratch.
@@ -22,8 +22,7 @@ Use HTML, CSS, and Javascript to create a mouse accuracy game. The game is descr
 2. Once the game has started, the user has a set amount of time (usually 30 seconds or a
 minute) to click on targets that randomly appear in the viewport. These targets are described as follows:
 
-    1. The targets take a set amount of time to grow larger when they appear, and then take a
-set amount of time to shrink until they disappear.
+    1. The targets take a set amount of time to grow larger when they appear, and then take a set amount of time to shrink until they disappear.
     2. You can decide the speed, size, and shape of the targets that appear and disappear.
     3. If the user clicks on a target, that target will disappear.
 
