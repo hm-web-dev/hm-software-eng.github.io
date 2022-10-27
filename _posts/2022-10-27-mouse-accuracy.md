@@ -31,20 +31,20 @@ scoreboard should include the following information for the user:
 
     1. The total amount of targets that appeared
     2. The number of targets that the user successfully clicked on
-    3. A score based on the above two numbers. You can decide how to calculate this score.
+    3. A score based on the above two numbers. Your UX Researcher can decide how to calculate and display this score.
 
 4. (Bonus) You can add more features to this game, such as difficulty settings, choosing the
 color and shape of the targets, and allowing a user to set how long they want to play.
 
-## Write-up
+## Presentation
 
-Include your group's responses to these prompts in your `README.md`.
+We'll be doing presentations of our work! In class, the presenter will run a demo in class, and also answer these questions (they may delegate speaking roles if they so wish!).
 
-1. Describe how the members of your group collaborated.
-2. Give a brief overview / timeline of what your group worked on.
-3. What challenges did your group face, and how did you overcome these challenges?
-4. What part of this project are you most proud of, and why?
-5. Cite any sources you used.
+1. Give a brief overview / timeline of how your group worked.
+2. What challenges did your group face, and how did you overcome these challenges?
+3. What part of this project are you most proud of, and why?
+4. Cite any sources you used.
+5. (Bonus) You should publish your github repo on Github Pages (Ms. Feng can show you how to do this in class). Then, anyone can play your game with the github.io link and we can play! :) 
 
 ## Submission
 
