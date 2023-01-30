@@ -15,6 +15,7 @@ Submit a document that answers the following questions.
 3. What new computer science topics outside of what we've learned / going to learn will you need to learn to complete your project?
 4. What do you need to code for your front-end application? (All projects need some front-end unless you get teacher permission otherwise!)
 5. What do you need to code for a back-end application / storage? (All projects need some back-end)
+6. What other ideas did you consider but didn't end up doing? (you can provide a link to a live collab)
 
 ## Project Deliverables
 
