@@ -21,7 +21,7 @@
 title: Software Engineering
 description: >- # this means to ignore newlines until "baseurl:"
    Software Engineering Assignments at Horace Mann. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/hm-software-eng.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  hm-software-eng
